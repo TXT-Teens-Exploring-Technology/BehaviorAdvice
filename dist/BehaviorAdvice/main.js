@@ -310,7 +310,7 @@ webpackEmptyAsyncContext.id = "./src/$$_lazy_route_resource lazy recursive";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<br>\r\n\r\n<h1 class=\"text-center\">\r\n  Advisors\r\n</h1>\r\n\r\n<br>\r\n\r\n<div class=\"row\">\r\n  <div class=\"col-sm text-center services-section\">\r\n    <img class=\"rounded-circle\" src=\"assets/drmartin.jpg\">\r\n\r\n    <br>\r\n\r\n    <p>Martin Cohen</p>\r\n    <p>(310) 683-2857</p>\r\n    <p>Marcohen23@gmail.com</p>\r\n\r\n  </div>\r\n  <div class=\"col-sm text-center services-section\">\r\n    <img class=\"rounded-circle\" src=\"assets/drgeo.JPG\">\r\n\r\n    <br>\r\n\r\n    <p>Dr.Georgiana</p>\r\n    <p>(415) 691-7988</p>\r\n    <p>gs@drgeorgina.com</p>\r\n\r\n  </div>\r\n  <div class=\"col-sm text-center services-section\">\r\n    <img class=\"rounded-circle\" src=\"https://cdn4.sussexdirectories.com/rms/rms_photos/sized/97/55/255597-447473-2_320x400.jpg?pu=1441694602\">\r\n\r\n    <br>\r\n\r\n    <p>Mikaila Henderson</p>\r\n   <p>(323) 819-9214</p>\r\n   <p>MikailaHenderson@gmail.com</p>\r\n\r\n  </div>\r\n</div>\r\n\r\n<br>\r\n<br>\r\n\r\n<div class=\"row\">\r\n  <div class=\"col-sm text-center services-section\">\r\n    <img class=\"rounded-circle\" src=\"assets/Anita.jpg\">\r\n\r\n    <br>\r\n\r\n    <p>Anita Avedian</p>\r\n    <p>(818) 963-9353</p>\r\n    <p>Anita@anitaAvedian.com</p>\r\n  </div>\r\n  <div class=\"col-sm text-center services-section\">\r\n    <img class=\"rounded-circle\" src=\"assets/Patricia.jpg\">\r\n\r\n    <br>\r\n\r\n    <p>Patricia Stephens</p>\r\n    <p>(818) 293-1626</p>\r\n    <p>Patisteph212@gmail.com</p>\r\n  </div>\r\n  <div class=\"col-sm text-center services-section\">\r\n    <img class=\"rounded-circle\" src=\"https://cdn4.sussexdirectories.com/rms/rms_photos/sized/56/44/104456-1129925-2_320x400.jpg?pu=1512584732\">\r\n\r\n    <br>\r\n\r\n    <p>Sindy Oh-Liverant</p>\r\n    <p>(424) 781-3253</p>\r\n    <p>sinverant21@yahoo.com</p>\r\n  </div>\r\n</div>\r\n"
+module.exports = "<div class=\"header\">\r\n    <div class=\"headerTitle\">\r\n      <h2>Advisors</h2>\r\n    </div>\r\n  </div>\r\n  <br>\r\n  <br>\r\n  <div class=\"row\">\r\n    <div class=\"col-sm shadow\">\r\n      <div class=\"label\">\r\n        <img class=\"logo\" src=\"assets/logo.png\">\r\n      </div>\r\n      <div class=\"info\">\r\n        <img class=\"profile\" src=\"assets/sindy.jpg\">\r\n        <h2>Sindy Oh-Liverant</h2>\r\n        <p>\r\n          I practice evedence-based therapies and belive on the importance of a collaborative client / therapist relationships when\r\n          working toward change and growth.\r\n        </p>\r\n      </div>\r\n      <div class=\"contact\">\r\n        <div>\r\n          <p>\r\n            <img class=\"icon\" src=\"assets/Vector 3.png\"> sinvernat21@yahoo.com\r\n          </p>\r\n        </div>\r\n        <div>\r\n          <p>\r\n            <img class=\"icon\" src=\"assets/Vector 2.png\"> (424) 721 -3253\r\n          </p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n    <div class=\"col-sm shadow\">\r\n      <div class=\"label\">\r\n        <img class=\"logo\" src=\"assets/logo.png\">\r\n      </div>\r\n      <div class=\"info\">\r\n        <img class=\"profile\" src=\"assets/Anita.jpg\">\r\n        <h2>Anita Avedian</h2>\r\n        <p>\r\n          I enjoy teaching skills and coaching my clients through\r\n          proper use of them. treatment may be brief to adress a problem      </p>\r\n      </div>\r\n      <div class=\"contact\">\r\n        <div>\r\n          <p>\r\n            <img class=\"icon\" src=\"assets/Vector 3.png\"> Anita@anitaavedia.com\r\n          </p>\r\n        </div>\r\n        <div>\r\n          <p>\r\n            <img class=\"icon\" src=\"assets/Vector 2.png\"> (818) 424-1626\r\n          </p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>\r\n  <div class=\"row\">\r\n    <div class=\"col-sm shadow\">\r\n      <div class=\"label\">\r\n        <img class=\"logo\" src=\"assets/logo.png\">\r\n      </div>\r\n      <div class=\"info\">\r\n        <img class=\"profile\" src=\"assets/Patricia.jpg\">\r\n        <h2>Patricia stephens</h2>\r\n        <p>\r\n          I have experience working with;Anxiety and stress\r\n             management,relationshhips issues,life transitions and\r\n             Adjustment.\r\n        </p>\r\n      </div>\r\n      <div class=\"contact\">\r\n        <div>\r\n          <p>\r\n            <img class=\"icon\" src=\"assets/Vector 3.png\">  Patriciastephens@yahoo.com\r\n          </p>\r\n        </div>\r\n        <div>\r\n          <p>\r\n            <img class=\"icon\" src=\"assets/Vector 2.png\">  (818) 293-1626\r\n          </p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n    <div class=\"col-sm shadow\">\r\n      <div class=\"label\">\r\n        <img class=\"logo\" src=\"assets/logo.png\">\r\n      </div>\r\n      <div class=\"info\">\r\n        <img class=\"profile\" src=\"assets/drgeo.JPG\">\r\n        <h2>Dr. Georgina</h2>\r\n        <p>\r\n          I have experince working with relationships issues,\r\n          Life Transitons and adjustment, trauma and PTSD\r\n        </p>\r\n      </div>\r\n      <div class=\"contact\">\r\n        <div>\r\n          <p>\r\n            <img class=\"icon\" src=\"assets/Vector 3.png\">drgeorgina.com\r\n          </p>\r\n        </div>\r\n        <div>\r\n          <p>\r\n            <img class=\"icon\" src=\"assets/Vector 2.png\">(1650) 731-5105 \r\n          </p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </div>"
 
 /***/ }),
 
@@ -321,7 +321,7 @@ module.exports = "<br>\r\n\r\n<h1 class=\"text-center\">\r\n  Advisors\r\n</h1>\
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ""
+module.exports = ".header {\n  height: 350px;\n  background-size: auto 350px;\n  background-repeat: no-repeat;\n  text-align: center;\n  background-image: url(\"/assets/HomePhoto.png\");\n  background-position: center;\n  position: relative; }\n\n.headerTitle {\n  position: absolute;\n  width: 100%;\n  height: 100px;\n  bottom: 0px;\n  background-image: linear-gradient(rgba(35, 76, 123, 0.5), rgba(35, 76, 123, 0.5)); }\n\n.shadow {\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }\n\n.label {\n  height: 75px;\n  background-color: #07366B;\n  text-align: right;\n  padding-right: 10px;\n  padding-top: 10px; }\n\n.profile {\n  margin-top: -50px;\n  width: 100px;\n  height: 100px;\n  border-radius: 50%; }\n\n.icon {\n  width: 30px;\n  height: 20px; }\n\n.logo {\n  width: 75px;\n  height: 50px; }\n"
 
 /***/ }),
 
@@ -366,6 +366,69 @@ var AdvisorsPageComponent = /** @class */ (function () {
 
 /***/ }),
 
+/***/ "./src/app/aggression/aggression.component.html":
+/*!******************************************************!*\
+  !*** ./src/app/aggression/aggression.component.html ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"header\">\n  <div class=\"headerTitle\">\n    <h2>Physical Aggression</h2>\n  </div>\n</div>\n<h2 class=\"subtitle\">Why this happens?</h2>\n<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-sm center\">\n      <img width=146 height=156 src=\"assets/attention.png\">\n      <p class=\"imgDesc\">They are angry and want to hurt someone who has upset them, or they want attention.</p>\n    </div>\n    <div class=\"col-sm center\">\n      <img width=198 height=153 src=\"assets/witness icon.png\">\n      <p class=\"imgDesc\">Children witnesssed hitting and they are mimicking behavior.</p>\n    </div>\n    <div class=\"col-sm center\">\n      <img width=141 height=155 src=\"assets/cantverbalizeicon.png\">\n      <p class=\"imgDesc\">They are responding physically because they dont know how to verbalize their feelings.</p>\n    </div>\n  </div>\n</div>\n<h2 class=\"title\">Strategies</h2>\n<div class=\"container\">\n  <div class=\"row rowStyle\">\n    <div class=\"col-sm-2\">\n      <div class=\"dot\">1</div>\n    </div>\n    <div class=\"col-sm\">\n      <p class=\"strategies\">\n        Children need to know what behavior is, and is not, permitted. Make sure your child is aware of the rules you set and punishments.\n      </p>\n    </div>\n  </div>\n\n  <br>\n  <br>\n\n  <div class=\"row rowStyle\">\n    <div class=\"col-sm-2\">\n      <div class=\"dot\">2</div>\n    </div>\n    <div class=\"col-sm\">\n      <p class=\"strategies\">\n        Encurage them to use words to express their feelings rather than fighting. calmly ask your child to explain what has caused\n        them to become so angry.\n      </p>\n    </div>\n  </div>\n\n  <br>\n  <br>\n\n  <div class=\"row rowStyle\">\n    <div class=\"col-sm-2\">\n      <div class=\"dot\">3</div>\n    </div>\n    <div class=\"col-sm\">\n      <p class=\"strategies\">\n        Children dont possess an innate ability to control themselves. They need to be taught not to kick, hit, or bite wether they\n        feel like i.\n      </p>\n    </div>\n  </div>\n\n  <br>\n  <br>\n\n</div>"
+
+/***/ }),
+
+/***/ "./src/app/aggression/aggression.component.scss":
+/*!******************************************************!*\
+  !*** ./src/app/aggression/aggression.component.scss ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = ".title {\n  text-align: center;\n  font-weight: bold; }\n\n.rowStyle {\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }\n\n.subtitle {\n  text-align: center;\n  -webkit-text-decoration: bold;\n          text-decoration: bold; }\n\n.center {\n  text-align: center; }\n\n.dot {\n  width: 76px;\n  height: 76px;\n  border-radius: 50%;\n  font-size: 48px;\n  color: #fff;\n  line-height: 76px;\n  text-align: center;\n  background: #07366B; }\n\n.imgDesc {\n  font-size: 20px; }\n\n.strategies {\n  font-size: 23px; }\n\n.header {\n  height: 350px;\n  background-size: auto 350px;\n  background-repeat: no-repeat;\n  text-align: center;\n  background-image: url(\"/assets/aggression.png\");\n  background-position: center;\n  position: relative; }\n\n.headerTitle {\n  position: absolute;\n  width: 100%;\n  height: 100px;\n  bottom: 0px;\n  background-image: linear-gradient(rgba(35, 76, 123, 0.5), rgba(35, 76, 123, 0.5)); }\n"
+
+/***/ }),
+
+/***/ "./src/app/aggression/aggression.component.ts":
+/*!****************************************************!*\
+  !*** ./src/app/aggression/aggression.component.ts ***!
+  \****************************************************/
+/*! exports provided: AggressionComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AggressionComponent", function() { return AggressionComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (undefined && undefined.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+var AggressionComponent = /** @class */ (function () {
+    function AggressionComponent() {
+    }
+    AggressionComponent.prototype.ngOnInit = function () {
+    };
+    AggressionComponent = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
+            selector: 'app-aggression',
+            template: __webpack_require__(/*! ./aggression.component.html */ "./src/app/aggression/aggression.component.html"),
+            styles: [__webpack_require__(/*! ./aggression.component.scss */ "./src/app/aggression/aggression.component.scss")]
+        }),
+        __metadata("design:paramtypes", [])
+    ], AggressionComponent);
+    return AggressionComponent;
+}());
+
+
+
+/***/ }),
+
 /***/ "./src/app/app.component.html":
 /*!************************************!*\
   !*** ./src/app/app.component.html ***!
@@ -373,7 +436,7 @@ var AdvisorsPageComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<!--Navbar-->\n<mdb-navbar SideClass=\"navbar navbar-expand-lg\">\n\n  <!-- Navbar brand -->\n  <mdb-navbar-brand><a href=\"#\"><img src=\"assets/logo.png\" width=75 height=75></a></mdb-navbar-brand>\n\n  <!-- Collapsible content -->\n  <links>\n      <!-- Links -->\n      <ul class=\"navbar-nav ml-auto\">\n          <li class=\"nav-item active\">\n              <a class=\"nav-link waves-light\" mdbWavesEffect href=\"#\" >Home<span class=\"sr-only\">(current)</span></a>\n          </li>\n          <li class=\"nav-item\">\n              <a class=\"nav-link waves-light\" mdbWavesEffect href=\"advisors\">Advisors</a>\n          </li>\n      </ul>\n      <!-- Links -->\n  </links>\n  <!-- Collapsible content -->\n\n</mdb-navbar>\n<!--/.Navbar-->\n\n<router-outlet></router-outlet>"
+module.exports = "<!--Navbar-->\n<mdb-navbar SideClass=\"navbar navbar-expand-md fixed primary-color-dark\">\n\n    <!-- Navbar brand -->\n    <mdb-navbar-brand>\n        <a id=\"navbar\" href=\"#\">\n            <img src=\"assets/logo.png\" width=50 height=50>\n            NoviHelp\n        </a>\n    </mdb-navbar-brand>\n\n    <!-- Collapsible content -->\n    <links>\n        <!-- Links -->\n        <ul class=\"navbar-nav ml-auto\">\n            <li class=\"nav-item\">\n                <a id=\"navbar\" class=\"nav-link\" mdbWavesEffect href=\"#\">\n                    Home\n                </a>\n            </li>\n            <li class=\"nav-item\">\n                <a id=\"navbar\" class=\"nav-link\" mdbWavesEffect href=\"advisors\" style=\"border-right:1px solid white\">\n                    Advisors\n                </a>\n            </li>\n            <li class=\"nav-item\">\n                <a id=\"navbar\" class=\"nav-link\" mdbWavesEffect href=\"#\">\n                    Login\n                </a>\n            </li>\n        </ul>\n        <!-- Links -->\n    </links>\n    <!-- Collapsible content -->\n\n</mdb-navbar>\n<!--/.Navbar-->\n\n<router-outlet></router-outlet>"
 
 /***/ }),
 
@@ -384,7 +447,7 @@ module.exports = "<!--Navbar-->\n<mdb-navbar SideClass=\"navbar navbar-expand-lg
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ""
+module.exports = "#navbar {\n  font-weight: bold;\n  font-size: 30px;\n  color: white; }\n"
 
 /***/ }),
 
@@ -440,8 +503,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
 /* harmony import */ var _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./home-page/home-page.component */ "./src/app/home-page/home-page.component.ts");
-/* harmony import */ var _hitting_page_hitting_page_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./hitting-page/hitting-page.component */ "./src/app/hitting-page/hitting-page.component.ts");
-/* harmony import */ var _advisors_page_advisors_page_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./advisors-page/advisors-page.component */ "./src/app/advisors-page/advisors-page.component.ts");
+/* harmony import */ var _advisors_page_advisors_page_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./advisors-page/advisors-page.component */ "./src/app/advisors-page/advisors-page.component.ts");
+/* harmony import */ var _aggression_aggression_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./aggression/aggression.component */ "./src/app/aggression/aggression.component.ts");
 var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -458,8 +521,8 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 
 var appRoutes = [
     { path: 'home', component: _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_5__["HomePageComponent"] },
-    { path: 'advisors', component: _advisors_page_advisors_page_component__WEBPACK_IMPORTED_MODULE_7__["AdvisorsPageComponent"] },
-    { path: 'hitting', component: _hitting_page_hitting_page_component__WEBPACK_IMPORTED_MODULE_6__["HittingPageComponent"] },
+    { path: 'advisors', component: _advisors_page_advisors_page_component__WEBPACK_IMPORTED_MODULE_6__["AdvisorsPageComponent"] },
+    { path: 'physical_aggression', component: _aggression_aggression_component__WEBPACK_IMPORTED_MODULE_7__["AggressionComponent"] },
     { path: '',
         redirectTo: '/home',
         pathMatch: 'full'
@@ -474,8 +537,8 @@ var AppModule = /** @class */ (function () {
             declarations: [
                 _app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"],
                 _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_5__["HomePageComponent"],
-                _hitting_page_hitting_page_component__WEBPACK_IMPORTED_MODULE_6__["HittingPageComponent"],
-                _advisors_page_advisors_page_component__WEBPACK_IMPORTED_MODULE_7__["AdvisorsPageComponent"]
+                _advisors_page_advisors_page_component__WEBPACK_IMPORTED_MODULE_6__["AdvisorsPageComponent"],
+                _aggression_aggression_component__WEBPACK_IMPORTED_MODULE_7__["AggressionComponent"]
             ],
             imports: [
                 angular_bootstrap_md__WEBPACK_IMPORTED_MODULE_2__["MDBBootstrapModule"].forRoot(),
@@ -495,69 +558,6 @@ var AppModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ "./src/app/hitting-page/hitting-page.component.html":
-/*!**********************************************************!*\
-  !*** ./src/app/hitting-page/hitting-page.component.html ***!
-  \**********************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "<br>\n<br>\n\n<h1 class=\"text-center\">Hitting</h1>\n\n<br>\n\n<p class=\"text-center\">Aggression in children can be a symptom of many different underlying problems. It’s a very polymorphic thing, a commonality for any\n   number of different psychiatric conditions, medical problems, and life circumstances.\n   And so at the very essence of treating aggression is first to find out what’s driving it.\n\nWhether children are hitting other children, adults, or their own parents, there are generally only a few reasons why kids hit.\n\n\n\nThey’ve witnessed hitting and they are mimicking behavior,\n\nThey are frustrated and are responding physically because they don’t know how to verbalize their feelings,\n\nThey are angry and want to hurt someone who has upset them,\n\nor they want attention,\n</p>\n\n<br>\n\n<div class=\"row\">\n  <div class=\"col-sm services-section\">\n    <img height=100 width=100 src=\"assets/circle_one.png\">\n  </div>\n  <div class=\"col-sm services-section\">\n    <img height=100 width=100 src=\"assets/circle_two.png\">\n  </div>\n  <div class=\"col-sm services-section\">\n    <img height=100 width=100 src=\"assets/circle_three.png\">\n  </div>\n</div>\n\n<br>\n\n<div class=\"row\">\n  <div class=\"col-sm text-center\">\n    <h2>Set firm and consistent limits</h2>\n  </div>\n  <div class=\"col-sm text-center\">\n    <h2>Help find ways to deal with anger</h2>\n  </div>\n  <div class=\"col-sm text-center\">\n    <h2>Instill self-control in your child</h2>\n  </div>\n</div>\n\n<br>\n\n<div class=\"row\">\n  <div class=\"col-sm text-center\">\n    <p>Children need to know what behavior is, and is not, permitted. Make sure that everyone who cares for your child is aware of the rules you set, as well as the response to use if he does exhibit this behavior.</p>\n  </div>\n  <div class=\"col-sm text-center\">\n      <p> Encourage them to use words to express their feelings rather than fighting. Calmly ask your child to explain what has caused them to become so angry.</p>\n  </div>\n  <div class=\"col-sm text-center\">\n      <p>Children don't possess an innate ability to control themselves. They need to be taught not to kick, hit, or bite whenever they feel like it.</p>\n  </div>\n</div>\n"
-
-/***/ }),
-
-/***/ "./src/app/hitting-page/hitting-page.component.scss":
-/*!**********************************************************!*\
-  !*** ./src/app/hitting-page/hitting-page.component.scss ***!
-  \**********************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/hitting-page/hitting-page.component.ts":
-/*!********************************************************!*\
-  !*** ./src/app/hitting-page/hitting-page.component.ts ***!
-  \********************************************************/
-/*! exports provided: HittingPageComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "HittingPageComponent", function() { return HittingPageComponent; });
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (undefined && undefined.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-var HittingPageComponent = /** @class */ (function () {
-    function HittingPageComponent() {
-    }
-    HittingPageComponent.prototype.ngOnInit = function () {
-    };
-    HittingPageComponent = __decorate([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
-            selector: 'app-hitting-page',
-            template: __webpack_require__(/*! ./hitting-page.component.html */ "./src/app/hitting-page/hitting-page.component.html"),
-            styles: [__webpack_require__(/*! ./hitting-page.component.scss */ "./src/app/hitting-page/hitting-page.component.scss")]
-        }),
-        __metadata("design:paramtypes", [])
-    ], HittingPageComponent);
-    return HittingPageComponent;
-}());
-
-
-
-/***/ }),
-
 /***/ "./src/app/home-page/home-page.component.html":
 /*!****************************************************!*\
   !*** ./src/app/home-page/home-page.component.html ***!
@@ -565,7 +565,7 @@ var HittingPageComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<br>\n<br>\n\n<h1 class=\"text-center\">What kind of aggressive behavior have you observed?</h1>\n\n<div class=\"container\" style=\"padding-left: 100px\">\n\n  <br>\n  <br>\n  <br>\n\n  <div class=\"row\">\n    <div class=\"col-sm\">\n      <img height=100 width=200 src=\"assets/button_hitting.png\" routerLink=\"/hitting\">\n    </div>\n    <div class=\"col-sm\">\n      <img height=100 width=200 src=\"assets/button_screaming.png\" routerLink=\"/hitting\">\n    </div>\n    <div class=\"col-sm\">\n      <img height=100 width=200 src=\"assets/button_pushing.png\" routerLink=\"/hitting\">\n    </div>\n  </div>\n\n  <br>\n  <br>\n\n  <div class=\"row\">\n    <div class=\"col-sm\">\n      <img height=100 width=200 src=\"assets/button_cursing.png\" routerLink=\"/hitting\">\n    </div>\n    <div class=\"col-sm\">\n      <img height=100 width=200 src=\"assets/button_biting.png\" routerLink=\"/hitting\">\n    </div>\n    <div class=\"col-sm\">\n      <img height=100 width=200 src=\"assets/button_kicking.png\" routerLink=\"/hitting\">\n    </div>\n  </div>\n\n</div>\n"
+module.exports = "<div class=\"image\">\n  <div class=\"center\">\n    <h1>\n      We provide parents with resources that help them with their child's aggression.\n    </h1>\n    <div>\n      <input class=\"search\" type=\"text\" placeholder=\"Type your child's problem\">\n      <span id=\"icon\" class=\"fa fa-search\" routerLink=\"/physical_aggression\"></span>\n    </div>\n  </div>\n</div>"
 
 /***/ }),
 
@@ -576,7 +576,7 @@ module.exports = "<br>\n<br>\n\n<h1 class=\"text-center\">What kind of aggressiv
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ""
+module.exports = ".image {\n  height: 40em;\n  background-size: cover;\n  width: auto;\n  background-image: linear-gradient(rgba(8, 0, 0, 0.5), rgba(8, 0, 0, 0.5)), url(\"/assets/family.png\");\n  background-position: 50% 50%; }\n\n.search {\n  width: 500px;\n  margin-top: 20px; }\n\n.center {\n  position: absolute;\n  top: 50%;\n  text-align: center; }\n\nh1 {\n  color: white;\n  font-weight: bold; }\n\nspan {\n  background-color: #0E42A1;\n  height: 30px;\n  width: 30px;\n  color: white; }\n"
 
 /***/ }),
 
