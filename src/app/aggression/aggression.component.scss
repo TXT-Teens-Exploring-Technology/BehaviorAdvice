@@ -36,7 +36,20 @@
 
 .header{
     height: 350px;
-    width: 100%;
-    background-size: cover;
+    background-size: auto 350px;
+    background-repeat: no-repeat;
+    text-align: center;
     background-image : url('/assets/aggression.png');
+    background-position: center;
+}
+
+.headerTitle{
+    position:absolute;
+    width:100%;
+    height:100px;
+    bottom:0px;
+    background-image:linear-gradient(
+        rgba(35, 76, 123, 0.5),
+        rgba(35, 76, 123, 0.5)
+    )
 }
