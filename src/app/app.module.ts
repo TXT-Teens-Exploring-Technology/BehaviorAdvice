@@ -5,13 +5,13 @@ import { RouterModule, Routes } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { HomePageComponent } from './home-page/home-page.component';
-import { HittingPageComponent } from './hitting-page/hitting-page.component';
 import { AdvisorsPageComponent } from './advisors-page/advisors-page.component';
+import { AggressionComponent } from './aggression/aggression.component';
 
 const appRoutes: Routes = [
   { path: 'home', component: HomePageComponent},
   { path: 'advisors', component: AdvisorsPageComponent},
-  { path: 'hitting', component: HittingPageComponent},
+  { path: 'physical_aggression', component: AggressionComponent},
   { path: '',
     redirectTo: '/home',
     pathMatch: 'full'
@@ -23,8 +23,8 @@ const appRoutes: Routes = [
   declarations: [
     AppComponent,
     HomePageComponent,
-    HittingPageComponent,
-    AdvisorsPageComponent
+    AdvisorsPageComponent,
+    AggressionComponent
   ],
   imports: [
     MDBBootstrapModule.forRoot(),

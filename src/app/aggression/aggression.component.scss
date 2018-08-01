@@ -1,0 +1,42 @@
+.title{
+    text-align: center;
+    font-weight: bold;
+}
+
+.rowStyle{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.subtitle{
+    text-align: center;
+    text-decoration: bold;
+}
+
+.center{
+    text-align: center;
+}
+
+.dot{
+    width: 76px;
+    height: 76px;
+    border-radius: 50%;
+    font-size: 48px;
+    color: #fff;
+    line-height: 76px;
+    text-align: center;
+    background: #07366B;
+}
+
+.imgDesc{
+    font-size: 20px;
+}
+
+.strategies{
+    font-size: 23px;
+}
+
+.header{
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+    background-image : url('/assets/aggression.png');
+}

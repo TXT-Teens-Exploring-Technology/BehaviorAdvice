@@ -1,23 +1,37 @@
 <!--Navbar-->
-<mdb-navbar SideClass="navbar navbar-expand-lg">
+<mdb-navbar SideClass="navbar navbar-expand-md fixed primary-color-dark">
 
-  <!-- Navbar brand -->
-  <mdb-navbar-brand><a href="#"><img src="assets/logo.png" width=75 height=75></a></mdb-navbar-brand>
+    <!-- Navbar brand -->
+    <mdb-navbar-brand>
+        <a id="navbar" href="#">
+            <img src="assets/logo.png" width=50 height=50>
+            NoviHelp
+        </a>
+    </mdb-navbar-brand>
 
-  <!-- Collapsible content -->
-  <links>
-      <!-- Links -->
-      <ul class="navbar-nav ml-auto">
-          <li class="nav-item active">
-              <a class="nav-link waves-light" mdbWavesEffect href="#" >Home<span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link waves-light" mdbWavesEffect href="advisors">Advisors</a>
-          </li>
-      </ul>
-      <!-- Links -->
-  </links>
-  <!-- Collapsible content -->
+    <!-- Collapsible content -->
+    <links>
+        <!-- Links -->
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a id="navbar" class="nav-link" mdbWavesEffect href="#">
+                    Home
+                </a>
+            </li>
+            <li class="nav-item">
+                <a id="navbar" class="nav-link" mdbWavesEffect href="advisors" style="border-right:1px solid white">
+                    Advisors
+                </a>
+            </li>
+            <li class="nav-item">
+                <a id="navbar" class="nav-link" mdbWavesEffect href="#">
+                    Login
+                </a>
+            </li>
+        </ul>
+        <!-- Links -->
+    </links>
+    <!-- Collapsible content -->
 
 </mdb-navbar>
 <!--/.Navbar-->
